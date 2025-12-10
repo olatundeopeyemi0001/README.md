@@ -2,7 +2,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/OPEYEMI-blue?style=for-the-badge)](https://www.opeyemiolatunde.com)
-[![Twitter](https://img.shields.io/badge/@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oluwabeejhay)
+[![Twitter](https://img.shields.io/badge/@oluwabeejhay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oluwabeejhay)
 
 - 🌍 I’m currently working on GRMI.org
 - 🧑‍💻 I’m currently learning on FRONT END DEVELOPMENT & DRONE TECH
