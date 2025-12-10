@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?olatundeopeyemi0001=YOUR_USERNAME&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=olatundeopeyemi0001&color=green)
 ![Visitors](https://views.igorkowalczyk.dev/api/badge/olatundeopeyemi0001)
 
 # # Hi there 👋, I am OPEYEMI OLATUNDE (GEOSPATIAL DATA ANALYST) 
